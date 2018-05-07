@@ -3,7 +3,7 @@
 * Node.js 
 
 # Setup
-## Execute os comandos:
+Abra um prompt de comandos e execute:
 ```
 $ npm install -g protractor
 ```
@@ -18,7 +18,7 @@ $ webdriver-manager start
 
 # Baixando o projeto e executando
 
-Abrir outro prompt e execute
+Abra outro prompt de comandos e execute:
 
 ```
 $ git clone https://github.com/antoniocoutinho/protractor-tests.git
@@ -29,6 +29,6 @@ $ cd protractor-tests/
 ```
 
 ```
-protractor conf.js
+$ protractor conf.js
 ```
 
